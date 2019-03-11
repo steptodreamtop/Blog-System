@@ -47,7 +47,7 @@
         window.location.href="login.html";
     </script>
 </c:if>
-<h2 style="text-align: center;font-family: 'Adobe 楷体 Std R';color: black">博客管理系统</h2>
+<h2 style="text-align: center;font-family: 'Adobe 楷体 Std R';color: black">源码精品分析博客后台管理系统</h2>
 <div style="float:right;" id="github_iframe"></div>
 <script>
     /**

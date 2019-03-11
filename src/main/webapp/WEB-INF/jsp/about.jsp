@@ -4,7 +4,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>富·有</title>
+    <title>Source Code Analysis</title>
     <link rel="shortcut icon" type="image/x-icon" href="/img/web-icon.png" media="screen" />
 
     <style>
@@ -245,13 +245,13 @@
         <nav>
             <ul>
                 <li>
-                    <a href="/">首页</a>
-                    <a href="/about">关于</a>
+                    <a href="/">Home</a>
+                    <a href="/about">About</a>
                 </li>
             </ul>
             <div class="my-info" onmouseover="hiddeewm()" onmouseout="hiddeewm()">
                 <figure></figure>
-                <span>富·有</span>
+                <span>Source Code Analysis</span>
                 <div id="hiddenewm" hidden="true" >
                     <img src="img/me.jpg" width="200px" height="200px" >
                     <p></p>
@@ -261,16 +261,23 @@
     </header>
     <div id="bg" >
         <p>
-            和所有以梦为马的诗人一样
-            <br>
-            <i>岁月易逝 一滴不剩</i>
+            Why?<br>
+
+            We want to keep our most precious and proud.<br>
+
+            We always have to push forward some good intentions in our life, so we are willing to listen to our inner arrangements.<br>
+
+            Focus on doing something, at least can withstand time and years. Let's leave time for the rest.<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;--《To The Heart》<br>
         </p>
     </div>
     <div id="container">
         <article class="article">
             <p>
-                <br><br><br><br>
-            <h3>你来人间一趟，你要看看太阳</h3>
+                <img src="img/gongzhonghao.jpg" width="200px" height="200px" >
+                <img src="img/articlexingqiu.jpg" width="200px" height="200px" >
+                <img src="img/weixin.jpg" width="200px" height="200px" >
+            <h3>愿半生编码，如一生老友</h3>
             <br><br>
             <h3>邮箱:<a href="mailto:fuyou.dai@qq.com">fuyou.dai@qq.com</a></h3>
             <br><br><br><br>
@@ -283,7 +290,7 @@
 <footer id="footer">
     <section id="copyright">
         <p style="font-size: 20px">
-            © 2019 <a href="/">富·有</a>
+            © 2019 <a href="/">源码精品分析（代富有）</a>
         </p>
     </section>
 </footer>
