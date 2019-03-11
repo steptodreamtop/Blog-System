@@ -278,7 +278,7 @@
                 <img src="img/articlexingqiu.jpg" width="200px" height="200px" >
                 <img src="img/weixin.jpg" width="200px" height="200px" >
             <h3>愿半生编码，如一生老友</h3>
-            <h3>源码精品分析，期待与您的加入</h3>
+            <h3>源码精品分析，期待您的加入</h3>
             <br><br>
             <h3>邮箱:<a href="mailto:fuyou.dai@qq.com">fuyou.dai@qq.com</a></h3>
             <br><br><br><br>
