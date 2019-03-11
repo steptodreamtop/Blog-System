@@ -40,7 +40,7 @@ public class ArticleController {
 
         Integer clickNum=article.getClick();
         article.setClick(clickNum+1);
-        articleService.updateArticle(article);
+        // articleService.updateArticle(article);
 
         ModelAndView modelAndView=new ModelAndView("detail");
         modelAndView.addObject("article",article);
