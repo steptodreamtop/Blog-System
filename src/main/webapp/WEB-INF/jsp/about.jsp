@@ -4,7 +4,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>星·光</title>
+    <title>富·有</title>
     <link rel="shortcut icon" type="image/x-icon" href="/img/web-icon.png" media="screen" />
 
     <style>
@@ -251,7 +251,7 @@
             </ul>
             <div class="my-info" onmouseover="hiddeewm()" onmouseout="hiddeewm()">
                 <figure></figure>
-                <span>星·光</span>
+                <span>富·有</span>
                 <div id="hiddenewm" hidden="true" >
                     <img src="img/me.jpg" width="200px" height="200px" >
                     <p></p>
@@ -272,7 +272,7 @@
                 <br><br><br><br>
             <h3>你来人间一趟，你要看看太阳</h3>
             <br><br>
-            <h3>邮箱:<a href="mailto:withstars@126.com">withstars@126.com</a></h3>
+            <h3>邮箱:<a href="mailto:fuyou.dai@qq.com">fuyou.dai@qq.com</a></h3>
             <br><br><br><br>
             </p>
         </article>
@@ -283,7 +283,7 @@
 <footer id="footer">
     <section id="copyright">
         <p style="font-size: 20px">
-            © 2018 <a href="/">星·光</a>
+            © 2018 <a href="/">富·有</a>
         </p>
     </section>
 </footer>

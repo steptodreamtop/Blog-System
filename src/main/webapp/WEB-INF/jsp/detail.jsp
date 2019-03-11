@@ -5,7 +5,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>星·光</title>
+    <title>富·有</title>
     <link rel="shortcut icon" type="image/x-icon" href="/img/web-icon.png" media="screen" />
     <link rel="stylesheet" href="/css/bootstrap.min.css">
     <script src="/js/jquery-3.2.1.min.js"></script>
@@ -264,7 +264,7 @@
             </ul>
             <div class="my-info" onmouseover="hiddeewm()" onmouseout="hiddeewm()">
                 <figure></figure>
-                <span>星·光</span>
+                <span>富·有</span>
                 <div id="hiddenewm" hidden="true" >
                     <img src="/img/me.jpg" width="200px" height="200px" >
                     <p></p>
@@ -396,7 +396,7 @@
     <footer id="footer">
         <section id="copyright">
             <p style="font-size: 20px">
-                © 2018 <a href="/">星·光</a>
+                © 2018 <a href="/">富·有</a>
             </p>
         </section>
     </footer>
