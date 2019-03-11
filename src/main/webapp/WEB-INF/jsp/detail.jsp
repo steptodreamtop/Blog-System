@@ -297,9 +297,9 @@
                     ${article.content}
                 </p>
                 <p style="text-align:center;color:#ccc;font-size:12px;margin-top:40px;">
-                    希望你今年过得比去年好一点
+                    希望你今年比过去更出色
                     <br>
-                    是因为有我
+                    是因为加入了我们
                 </p>
                 <p style="margin: 5em 0 1em;text-align: center;color: #83b8ec;font-size: .8em">
                     <span>Have a nice day :)</span>
